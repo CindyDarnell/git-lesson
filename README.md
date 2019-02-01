@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # git_workshop_20190201
 
 rfun workshop </br >
