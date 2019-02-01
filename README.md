@@ -1,6 +1,8 @@
-# git_workshop_20190201
+# git-lesson
 
-rfun workshop </br >
+
 test repository for workshops/lessons <br />
-look here to see my progress/mistakes
+look here to see my progress/mistakes <br />
+
+#rfun workshop </br >
 [https://rfun.library.duke.edu/git](https://rfun.library.duke.edu/git)
